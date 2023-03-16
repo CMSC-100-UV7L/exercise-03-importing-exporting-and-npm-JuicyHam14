@@ -5,5 +5,5 @@
 
 import { generateUniqueID, addAccount } from "./functions.js";
 
-generateUniqueID();
+console.log(generateUniqueID('Juicy','Ham'));
 addAccount();
