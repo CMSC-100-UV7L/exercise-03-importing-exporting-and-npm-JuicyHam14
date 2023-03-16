@@ -1,0 +1,30 @@
+{
+  "name": "exercise-03-importing-exporting-and-npm-juicyham14",
+  "version": "1.0.0",
+  "description": "Lab Exercise 3 (10 pts)",
+  "main": "functions.js",
+  "dependencies": {
+    "dot-case": "^3.0.4",
+    "lower-case": "^2.0.2",
+    "no-case": "^3.0.4",
+    "snake-case": "^3.0.4",
+    "tslib": "^2.5.0",
+    "uuid": "^9.0.0",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/CMSC-100-UV7L/exercise-03-importing-exporting-and-npm-JuicyHam14.git"
+  },
+  "author": "Jared Cortes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMSC-100-UV7L/exercise-03-importing-exporting-and-npm-JuicyHam14/issues"
+  },
+  "homepage": "https://github.com/CMSC-100-UV7L/exercise-03-importing-exporting-and-npm-JuicyHam14#readme",
+  "type": "module"
+}
