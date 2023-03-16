@@ -3,8 +3,9 @@
 // with the use of NPM package manager.
 
 
-import { generateUniqueID, addAccount } from "./functions.js";
+import { generateUniqueID, addAccount } from "./functions.js"; // call functions.js
 
+// run functions from imported functions
 console.log(generateUniqueID('Juicy','Ham'));
 console.log(generateUniqueID('Juicy','Ham'));
 
