@@ -6,4 +6,13 @@
 import { generateUniqueID, addAccount } from "./functions.js";
 
 console.log(generateUniqueID('Juicy','Ham'));
-addAccount();
+console.log(generateUniqueID('Juicy','Ham'));
+
+// test cases:
+console.log(addAccount('Ham','jbcortes2@up.edu.ph','22'));
+console.log(addAccount('Juicy','','jbcortes2@up.edu.ph','22'));
+console.log(addAccount('Juicy','Ham','jbcortes2up.edu.ph','22'));
+console.log(addAccount('Juicy','Ham','jbcortes2@up.edu.ph','17'));
+
+console.log(addAccount('Jared','Cortes','cortesjared000@up.edu.ph','22'));
+console.log(addAccount('Juicy','Ham','jbcortes2@up.edu.ph','22'));
